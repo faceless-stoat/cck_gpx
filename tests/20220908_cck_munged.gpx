@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Deliveries for 08/09/2022 in TESTDATA</desc>
+  </metadata>
+  <wpt lat="52.20971250000001" lon="0.12832812500000002">
+    <name>Jonny</name>
+  </wpt>
+  <wpt lat="52.2096375" lon="0.129671875">
+    <name>Freddie</name>
+  </wpt>
+  <wpt lat="52.2098125" lon="0.1308125">
+    <name>Venus</name>
+  </wpt>
+  <wpt lat="52.209937499999995" lon="0.13193749999999999">
+    <name>Terra</name>
+  </wpt>
+  <wpt lat="52.2101375" lon="0.133265625">
+    <name>Johnny</name>
+  </wpt>
+  <wpt lat="52.215387500000006" lon="0.145703125">
+    <name>Isaac</name>
+  </wpt>
+  <wpt lat="52.2203625" lon="0.157078125">
+    <name>C. R.</name>
+  </wpt>
+  <wpt lat="52.2366125" lon="0.174421875">
+    <name>george</name>
+  </wpt>
+</gpx>

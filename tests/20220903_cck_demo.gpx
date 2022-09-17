@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Deliveries for 04/09/2022 in Demo</desc>
+  </metadata>
+  <wpt lat="52.2220625" lon="0.1189375">
+    <name>Miriam</name>
+  </wpt>
+  <wpt lat="52.2259125" lon="0.11670312499999999">
+    <name>Joan</name>
+  </wpt>
+  <wpt lat="52.2296875" lon="0.11881249999999999">
+    <name>Amanda</name>
+  </wpt>
+  <wpt lat="52.231562499999995" lon="0.1229375">
+    <name>Johnny</name>
+  </wpt>
+  <wpt lat="52.233937499999996" lon="0.1214375">
+    <name>Chumbawamba</name>
+  </wpt>
+  <wpt lat="52.234812500000004" lon="0.1161875">
+    <name>James</name>
+  </wpt>
+</gpx>
